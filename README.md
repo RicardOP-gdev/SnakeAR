@@ -19,5 +19,5 @@ Personal project inspirated in UnityList tutorial
 <!-- PRESENTATION -->
 ## Description
 
-Snake AR is a AR version of the classic Snake game. This project use AR Core technology to make it possible to use AR on Android devices. 
+Snake AR is a AR version of the classic Snake game. This project use AR Core technology to make it possible to use AR on Android devices. To play the game, first of all we must track the surface that we will use to play. Later the user will have the possibility to re-track a new surface if desired. 
 
