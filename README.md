@@ -12,7 +12,7 @@ Personal project inspirated in AA game
     <a href="https://github.com/RicardOP-gdev/BattlePin"><strong>Explore this repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RicardOP-gdev/BattlePin/tree/main/Scripts">Scripts</a>
+    <a href="https://github.com/RicardOP-gdev/SnakeAR/tree/main/Scripts">Scripts</a>
     ·
     <a href="https://github.com/RicardOP-gdev/BattlePin/tree/main/Resources">Resources</a>
   </p>
